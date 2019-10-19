@@ -1,0 +1,141 @@
+
+.btn-style-two:hover,
+.btn-style-three,
+.scroll-to-top:hover,
+.main-header.fixed-header .main-box,
+.main-menu .navigation > li > ul > li:hover > a,
+.main-menu .navigation > li > ul > li > ul > li > a:hover,
+.info-block-one .inner-box:hover .icon-box,
+.info-block-two .inner-box:hover .icon-box,
+.info-block-three .inner-box:hover .icon-box,
+.price-column .inner-box:hover .btn-style-two,
+.testimonial-style-one .owl-dots .owl-dot.active span,
+.team-section .owl-dots .owl-dot.active span,
+.newsletter-style-one .theme-btn,
+.sidebar-page-container .social-links-one li a:hover,
+.contact-section .social-links-one li a:hover,
+.newsletter-style-two .theme-btn,
+.app-screenshots-two .owl-dots .owl-dot.active span,
+.testimonial-style-two .owl-dots .owl-dot.active span,
+.app-screenshots-three .owl-dots .owl-dot.active span,
+.sidebar .search-box .form-group input:focus + button,
+.sidebar .search-box .form-group button:hover,
+.sidebar .popular-tags a:hover,
+.tagcloud a:hover,
+.post-password-form input[type="submit"],
+.main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+.main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a {
+    background-color: #2c50b1;
+}
+
+a,
+.btn-style-one:hover,
+.btn-style-two,
+.btn-style-three:hover,
+.main-slider .tp-caption .theme-btn:hover,
+.main-slider .tparrows.preview3:hover::after,
+.info-block-one .inner-box .icon-box,
+.info-block-two .inner-box .icon-box,
+.info-block-three .inner-box .icon-box,
+.info-block-four .inner-box .icon-box,
+.fullwidth-section-two .image-column .video-link .icon,
+.price-column .price-header .price,
+.news-style-one .lower-content h3 a:hover,
+.sidebar-page-container .social-links-one li a,
+.sidebar-page-container .post-options .next-option a:hover,
+.contact-section .contact-info li .icon,
+.contact-section .social-links-one li a,
+.how-it-works-two .image-column .video-link .icon,
+.sidebar .popular-posts .post a,
+.sidebar .popular-posts .post a:hover,
+.sidebar .popular-posts .post-info .fa,
+.sidebar .list li a:hover,
+.widget ul li a:hover, .widget ul li:hover,
+.comment-box .meson-comment-item .default-form h2 a:hover,
+.default-form a:hover,
+.paginate-links a,
+.paginate-links > span,
+.thm-unit-test a:hover {
+    color: #2c50b1;
+}
+
+
+.btn-style-two,
+.btn-style-three,
+.sec-title h2:before,
+.info-block-one .inner-box .icon-box,
+.info-block-one .inner-box .icon-box:before,
+.info-block-two .inner-box .icon-box,
+.info-block-two .inner-box .icon-box:before,
+.info-block-three .inner-box .icon-box,
+.info-block-three .inner-box .icon-box:before,
+.price-column .inner-box:hover:before,
+.testimonial-style-one .owl-dots .owl-dot span:before,
+.team-section .owl-dots .owl-dot span:before,
+.newsletter-style-one input[type="text"]:focus,
+.newsletter-style-one input[type="email"]:focus,
+.newsletter-style-one input[type="password"]:focus,
+.news-style-one blockquote,
+.default-form input:focus,
+.default-form select:focus,
+.default-form textarea:focus,
+.app-screenshots-two .owl-dots .owl-dot span:before,
+.testimonial-style-two .owl-dots .owl-dot span:before,
+.app-screenshots-three .owl-dots .owl-dot span:before,
+.sidebar .search-box .form-group input:focus,
+.sidebar .popular-tags a:hover,
+.comment-form .form-group input[type="text"]:focus,
+.comment-form .form-group input[type="password"]:focus,
+.comment-form .form-group input[type="tel"]:focus,
+.comment-form .form-group input[type="email"]:focus,
+.comment-form .form-group select:focus,
+.comment-form .form-group textarea:focus,
+.tagcloud a:hover,
+.paginate-links a,
+.paginate-links > span,
+.paginate-links a:hover,
+.paginate-links > span,
+.post-password-form input[type="password"] {
+    border-color: #2c50b1;
+}
+
+
+.fullwidth-section-two .image-column .video-link,
+.team-member .inner-box .overlay-box,
+.main-slider .tp-dottedoverlay,
+.page-title::before,
+.how-it-works-one::before,
+.how-it-works-two .image-column .video-link {
+    background-color: rgba(44, 80, 177, 0.9) !important;
+}
+
+
+.call-to-action::before,
+.static-banner::before {
+    background-color: rgba(44, 80, 177, 0.8) !important;
+}
+
+@media only screen and (max-width: 767px) {
+
+    .main-header,
+    .main-menu .navbar-header .navbar-toggle .icon-bar,
+    .main-menu .navbar-collapse > .navigation,
+    .main-menu .navbar-collapse > .navigation > li > ul,
+    .main-menu .navbar-collapse > .navigation > li > ul > li > ul,
+    .main-menu .navbar-collapse > .navigation > li > a,
+    .main-menu .navbar-collapse > .navigation > li > ul > li > a,
+    .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li > a,
+    .main-menu .navbar-collapse > .navigation > li > a:hover,
+    .main-menu .navbar-collapse > .navigation > li > a:active,
+    .main-menu .navbar-collapse > .navigation > li > a:focus,
+    .main-menu .navbar-collapse > .navigation > li:hover > a,
+    .main-menu .navbar-collapse > .navigation > li > ul > li:hover > a,
+    .main-menu .navbar-collapse > .navigation > li > ul > li > ul > li:hover > a,
+    .main-menu .navbar-collapse > .navigation > li.current > a,
+    .main-menu .navbar-collapse > .navigation > li.current-menu-item > a {
+        background-color: #2c50b1 !important;
+    }
+}
+
+
+

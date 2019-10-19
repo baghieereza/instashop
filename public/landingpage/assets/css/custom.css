@@ -1,0 +1,144 @@
+.kc_row .kc_col-sm-12 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.tp-dottedoverlay.twoxtwo {
+    background: none;
+}
+
+#comments_form .form-group {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.meson-comment-item .meson-comment-item {
+    margin-left: 40px;
+}
+
+.comments-area .comment .comment-info {
+    display: inline-block;
+}
+
+#comments .comment-reply-link {
+    float: right;
+}
+
+/**************Custom css******************/
+.widget ul li {
+    border-bottom: 1px solid #f0f0f0;
+    line-height: 24px;
+    position: relative;
+    font-size: 15px;
+    color: #696969;
+}
+
+.widget ul li a {
+    color: #696969;
+    display: block;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 10px 0;
+    position: relative;
+    display: inline-block;
+}
+
+.widget ul li:first-child a {
+    padding-top: 0;
+}
+
+.widget ul li a:hover, .widget ul li:hover {
+    color: #2c50b1;
+}
+
+.tagcloud a {
+    border: 1px solid #e0e0e0;
+    border-radius: 2px;
+    color: #696969;
+    display: inline-block;
+    font-size: 14px !important;
+    line-height: 24px;
+    margin: 0 8px 10px 0;
+    padding: 6px 22px;
+    position: relative;
+    text-align: center;
+    transition: all 300ms ease 0s;
+}
+
+.tagcloud a:hover {
+    background-color: #2c50b1;
+    border-color: #2c50b1;
+    color: #ffffff;
+}
+
+/***
+=============================================
+    Not found area style
+=============================================
+***/
+.not-found-area {
+    background: #f7f7f7 none repeat scroll 0 0;
+    padding-bottom: 100px;
+    padding-top: 72px;
+}
+
+.not-found-content.text-center {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.not-found-content h1 {
+    color: #ff2b58;
+    font-size: 150px;
+    font-weight: 700;
+    margin: 0 0 7px;
+    text-shadow: 1px 4px 5px #590618;
+}
+
+.not-found-content h3 {
+    color: #222;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0 0 20px;
+    text-transform: uppercase;
+}
+
+.not-found-content p {
+    font-size: 18px;
+    margin: 0 0 42px;
+}
+
+.not-found-area .blog-section {
+    background: none;
+    padding: 0;
+    position: relative;
+}
+
+.no-pad {
+    padding: 0px;
+}
+
+.admin-bar .main-header.fixed-header .main-box {
+    top: 32px;
+}
+
+.comment-box .meson-comment-item .default-form .group-title {
+    margin-bottom: 5px;
+}
+
+.comment-box .meson-comment-item .default-form h2 a {
+    color: #0b0b0b;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: capitalize;
+}
+
+.default-form a {
+    color: #0b0b0b;
+}
+
+.comment-box .meson-comment-item .default-form h2 a:hover,
+.default-form a:hover {
+    color: #2c50b1;
+}
